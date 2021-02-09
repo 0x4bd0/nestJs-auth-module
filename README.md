@@ -1,7 +1,7 @@
-NestJs Auth module with Jwt and password hashing
+- NestJs Auth module with Jwt and password hashing
 
 ## Get started :
-Go to src/app.module.ts and add your mongoDB Connection URL
+- Go to src/app.module.ts and add your mongoDB Connection URL
 
 ## Needed Packages :
 
